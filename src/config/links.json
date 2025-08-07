@@ -7,7 +7,7 @@
   },
   {
     "type": "Telegram",
-    "icon": "fab fa-wexin",
+    "icon": "fas fa-dove",
     "url": "https://t.me/ilancet",
     "hoverColor": "#e78b0a"
   },
