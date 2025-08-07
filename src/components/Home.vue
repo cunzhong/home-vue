@@ -67,8 +67,8 @@ const userName = ref(import.meta.env.VITE_APP_USER_NAME);
 const descriptionElement = ref(null);
 
 const predefinedDescriptions = [
-  "Welcome to Nai Space，更多关注公众号：是小奈啊",
-  "Better to run than curse the road."
+  "Welcome to Nai Space",
+  "公众号：是小奈啊"
 ];
 
 let typedInstance = null;
