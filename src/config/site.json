@@ -2,17 +2,17 @@
   {
     "name": "博客",
     "url": "https://8.088878.xyz",
-    "icon": "https://png.088878.xyz/是小奈啊.jpg"
+    "icon": "fa fa-blog"
   },
   {
     "name": "导航",
     "url": "https://66.088878.xyz",
-    "icon": "https://png.088878.xyz/小艺_1750401668040.jpg"
+    "icon": "fa fa-image"
   },
   {
     "name": "临时邮箱",
     "url": "https://mail.088887.xyz",
-    "icon": "https://mail.088878.xyz/favicon.ico"
+    "icon": "fa fa-mail"
   },
   {
     "name": "监测",
