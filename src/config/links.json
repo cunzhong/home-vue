@@ -7,7 +7,7 @@
   },
   {
     "type": "Telegram",
-    "icon": "fa-regular fa-comment-dots",
+    "icon": "fas fa-eyes",
     "url": "https://t.me/ilancet",
     "hoverColor": "#e78b0a"
   },
