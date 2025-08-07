@@ -7,22 +7,22 @@
   {
     "name": "导航",
     "url": "https://66.088878.xyz",
-    "icon": "fa fa-image"
+    "icon": "far fa-location-arrow"
   },
   {
     "name": "临邮",
     "url": "https://mail.088878.xyz",
-    "icon": "fas fa-envelope"
+    "icon": "far fa-envelope"
   },
   {
     "name": "明月",
     "url": "https://mtv.088878.xyz",
-    "icon": "fa fa-chart-line"
+    "icon": "fas fa-cloud-moon"
   },
   {
     "name": "自由",
     "url": "https://ltv.088878.xyz",
-    "icon": "fa-regular fa-comment-dots"
+    "icon": "fab fa-yoitube"
   }
 
 ]
