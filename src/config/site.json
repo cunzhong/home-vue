@@ -15,14 +15,14 @@
     "icon": "far fa-envelope"
   },
   {
-    "name": "明月",
+    "name": "LTV",
     "url": "https://mtv.088878.xyz",
     "icon": "fas fa-cloud-moon"
   },
   {
-    "name": "自由",
+    "name": "MTV",
     "url": "https://ltv.088878.xyz",
-    "icon": "fab fa-yoitube"
+    "icon": "fab fa-youtube"
   }
 
 ]
