@@ -10,24 +10,19 @@
     "icon": "fa fa-image"
   },
   {
-    "name": "临时邮箱",
+    "name": "临邮",
     "url": "https://mail.088887.xyz",
     "icon": "fas fa-envelope"
   },
   {
-    "name": "监测",
-    "url": "https://status.xxxh.de",
+    "name": "明月",
+    "url": "https://mtv.088878.xyz",
     "icon": "fa fa-chart-line"
   },
   {
-    "name": "MiniChat",
-    "url": "https://t.me/ilancet",
+    "name": "自由",
+    "url": "https://ltv.088878.xyz",
     "icon": "fa-regular fa-comment-dots"
-  },
-  {
-    "name": "FileCodeBox",
-    "url": "https://file.xxxh.de",
-    "icon": "fa-solid fa-file-code"
   }
 
 ]
