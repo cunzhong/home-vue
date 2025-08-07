@@ -5,12 +5,12 @@
     "url": "15896779059@163.com",
     "hoverColor": "#e78b0a"
   },
- /* {
+ * {
     "type": "Telegram",
     "icon": "fa-regular fa-comment-dots",
     "url": "https://t.me/ilancet",
     "hoverColor": "#e78b0a"
-  },*/
+  },
   {
     "type": "Github",
     "icon": "fab fa-github",
