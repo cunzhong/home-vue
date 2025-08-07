@@ -23,6 +23,11 @@
     "name": "MTV",
     "url": "https://ltv.088878.xyz",
     "icon": "fab fa-youtube"
+  },
+  {
+    "name": "CF",
+    "url": "https://ff.088878.xyz",
+    "icon": "fas fa-smog"
   }
 
 ]
