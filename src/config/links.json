@@ -7,7 +7,7 @@
   },
   {
     "type": "Telegram",
-    "icon": "fas fa-car",
+    "icon": "fab fa-wexin",
     "url": "https://t.me/ilancet",
     "hoverColor": "#e78b0a"
   },
@@ -19,7 +19,7 @@
   },
   {
     "type": "Steam",
-    "icon": "fa-brands fa-steam",
+    "icon": "fab fa-centercode",
     "url": "https://steamcommunity.com/id/whyplain",
     "hoverColor": "#007aff"
   }
